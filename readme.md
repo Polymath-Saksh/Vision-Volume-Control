@@ -37,4 +37,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Pycaw](https://github.com/AndreMiras/pycaw)
 
 [License-Badge]: https://img.shields.io/badge/License-MIT-blue.svg
+
 [Python-Badge]: https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff
