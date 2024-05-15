@@ -17,6 +17,7 @@ This is a simple python script that uses OpenCV to detect the volume of a video 
     ```
 
 ## Usage
+[test-vol.webm](https://github.com/Polymath-Saksh/Vision-Volume-Control/assets/67389168/0467a8f6-8105-4966-b8d2-faa056131565)
 
 - Run the script
 
